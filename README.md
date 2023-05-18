@@ -28,7 +28,7 @@ This Project will have 5 main steps which has been highlighted below.
  * Research method
      * Data will be collected using surveys
 
-* Sample size and selection method*
+* Sample size and selection method
     * Sample size to be collated will be a minimum of 100-200people across Nigeria’s six geopolitical zones.
 
  * Develop the survey questionnaire 
