@@ -22,7 +22,7 @@ To study the sleep patterns of Nigerian university students, and how they impact
 ## LITERATURE REVIEW
 To examine the current state of knowledge on sleep patterns and mental health, and identify gaps in knowledge, we will conduct a comprehensive literature review studying journals and articles on sleep patterns and effects extensively and narrowing it down to available studies on the subject matter in Nigeria, specifically.
 
-**This Project will have 5 main steps which has been highlighted below.
+### *This Project will have 5 main steps which has been highlighted below.
 
 #  RESEARCH DESIGN
  * Research method
