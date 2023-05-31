@@ -61,7 +61,7 @@ To examine the current state of knowledge on sleep patterns and mental health, a
 * Disseminate the findings through social media, conferences, or workshops.
 
 
-# Contributing Guidelines
+# CONTRIBUTING GUIDELINES
 
 Thank you for your interest in contributing to the project "Impact of Sleep Deprivation on the Mental Health of School Children." We welcome contributions from researchers, experts in the field of psychology, data analysts, and anyone interested in furthering our understanding of this important topic. To ensure a smooth and collaborative contribution process, please review and follow these guidelines:
 
