@@ -24,7 +24,7 @@ To examine the current state of knowledge on sleep patterns and mental health, a
 
 ### This Project will have 5 main steps which has been highlighted below.
 
-#  RESEARCH DESIGN
+## RESEARCH DESIGN
  * Research method
      * Data will be collected using surveys
 
@@ -37,25 +37,25 @@ To examine the current state of knowledge on sleep patterns and mental health, a
 * Distribution of questionnaires and data collection
     * For ease in data collection, the survey will be built with Google Forms, and responses will automatically be entered into a Google Sheet. Links to this form will only be shared to selected participants.
 
-# DATA ANALYSIS
+## DATA ANALYSIS
 * Yet to decide.
 
 * Interpretation of the results in order to draw conclusions about the sleep patterns of Nigerian university students.
 
-# COLLABORATION
+## COLLABORATION
 * Communicate findings to experts in the field of sleep, neuroscience, Mental Health, and Education. They will contribute their expertise and knowledge to the project.
 
 * Collaborate with other writers
     * Reach out to writers who will edit, proofread and co-author the articles for journal publication.
 
 
-# PUBLICATION
+## PUBLICATION
 * Write up the findings and conclusions in a clear, concise and easy-to-digest manner.
 * Find and select possible journals for peer review
 * Submit the article for peer review.
 * If accepted, work with editors to finalise the article for publication.
 
-# PROMOTION
+## PROMOTION
 * Share the published articles with Nigerian universities, local papers, policy makers and stakeholders.
 
 * Disseminate the findings through social media, conferences, or workshops.
