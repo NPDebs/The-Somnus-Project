@@ -105,6 +105,6 @@ Please provide your preferred name and affiliation, which will be included in th
 
 Adhere to the project's code of conduct at all times. Treat all participants with respect, foster inclusivity, and engage in constructive and respectful communication. Report any concerns or violations of the code of conduct to the project lead or designated individuals responsible for enforcement. 
 
-Read the code of conduct [here](https:/https://github.com/NPDebs/The-Somnus-Project/blob/main/Code%20of%20conduct.md/)
+Read the code of conduct [here](/code-of-conduct.md/)
 
 We appreciate your interest and contributions to this research project. Together, we can advance our understanding of the impact of sleep deprivation on the mental health of school children and make a meaningful contribution to this field.
